@@ -1,0 +1,1 @@
+# pub-why-basic-auth-does-not-work-only-in-vercel
